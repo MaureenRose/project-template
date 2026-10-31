@@ -51,4 +51,4 @@ rsconnect/
 
 # raw data
 *.csv
-!data/raw/lookup_table.csv.DS_Store
+!data/raw/lookup_table.csv
